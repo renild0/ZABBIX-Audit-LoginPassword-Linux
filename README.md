@@ -17,3 +17,5 @@ Teste em Ubuntu 20.04:
 ![image](https://user-images.githubusercontent.com/88397673/156216579-98cb81f4-d9d1-43b5-aaf7-5279fcc1c8e8.png)
 
 Teste em Debian 9
+
+![image](https://user-images.githubusercontent.com/88397673/156218104-eda23433-7f45-4aa7-8610-cab392544257.png)
