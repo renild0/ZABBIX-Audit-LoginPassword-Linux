@@ -19,3 +19,5 @@ Teste em Ubuntu 20.04:
 Teste em Debian 9
 
 ![image](https://user-images.githubusercontent.com/88397673/156218104-eda23433-7f45-4aa7-8610-cab392544257.png)
+
+Importe o Template, vincule-o ao Host e inicie o Monitoramento!
